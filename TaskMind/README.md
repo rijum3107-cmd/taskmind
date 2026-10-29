@@ -1,6 +1,6 @@
 # TaskMind — Full-stack productivity app
 
-A college-project starter app for managing tasks, priorities, due dates, daily goals, progress insights, and focus sessions.
+A college-project starter app for managing tasks, priorities task, due dates, daily goals, progress insights and focus sessions based on user.
 
 ## Tech stack
 - **Frontend:** HTML, CSS, vanilla JavaScript
