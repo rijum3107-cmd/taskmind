@@ -1,0 +1,10 @@
+{
+  "name": "taskmind",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TaskMind full-stack student productivity app",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "bcryptjs": "^2.4.3", "express": "^4.21.2", "jsonwebtoken": "^9.0.2" }
+}
